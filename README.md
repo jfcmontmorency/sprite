@@ -1,3 +1,3 @@
 # Animation Sprite Sheet
 
-Source initiale : https://codepen.io/SitePoint/pen/MYRKmJ
+Sprite : https://luizmelo.itch.io/huntress
